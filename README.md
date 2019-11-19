@@ -1,4 +1,4 @@
-# ZK Demo
+# ZK Kanban(PortalChildren Frame Design) Demo
 
 Example ZK project using gradle
 
@@ -9,7 +9,7 @@ run jetty
 ./gradlew appRun
 ```
 
-http://localhost:8080/zk--demo
+http://localhost:8080/zkkanban-demo
 
 run tests
 ```
